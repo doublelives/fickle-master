@@ -14,6 +14,9 @@
 2. OpenCV类库调用及搭建
 ## 参考文献(补充···)
 [1] Summary of facial expression recognition methods based on image, http://www.xml-data.org/JSJYY/2017-12-3509.htm#outline_anchor_13
+
 [2] https://cloud.tencent.com/developer/article/14725063
+
 [3] https://www.jiqizhixin.com/articles/2019-02-10-4
+
 [4] https://zhuanlan.zhihu.com/p/24816781
